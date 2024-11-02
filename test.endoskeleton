@@ -1,3 +1,5 @@
 message = "Hello, World!";
 print(message);
 print("Hell yeah, KOTLIN-BASED INTERPRETER HELL YEAAAA!");
+array1 = ["Hello", "World", "KOTLIN"];
+array1[0];
